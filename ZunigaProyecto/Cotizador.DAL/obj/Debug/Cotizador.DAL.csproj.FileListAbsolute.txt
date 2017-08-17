@@ -1,0 +1,125 @@
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Cotizador.DAL.dll.config
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Cotizador.DAL.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Cotizador.DAL.pdb
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Cotizador.DATA.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\MySql.Data.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.Common.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.MySql.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.Text.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\WebGrease.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Cotizador.DATA.pdb
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.Common.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.MySql.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.Text.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\obj\Debug\Cotizador.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\obj\Debug\Cotizador.DAL.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\Cotizador.DAL\obj\Debug\Cotizador.DAL.pdb
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Cotizador.DAL.dll.config
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Cotizador.DAL.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Cotizador.DAL.pdb
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Antlr3.Runtime.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Cotizador.DATA.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\MySql.Data.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.Common.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.MySql.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.Text.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\WebGrease.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Cotizador.DATA.pdb
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.Common.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.MySql.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\bin\Debug\ServiceStack.Text.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\obj\Debug\Cotizador.DAL.csprojResolveAssemblyReference.cache
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\obj\Debug\Cotizador.DAL.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\Cotizador.DAL\obj\Debug\Cotizador.DAL.pdb
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DAL.dll.config
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DAL.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DAL.pdb
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Antlr3.Runtime.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DATA.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\MySql.Data.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Common.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Interfaces.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.MySql.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Text.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\WebGrease.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DATA.pdb
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Antlr3.Runtime.pdb
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Common.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Interfaces.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.MySql.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Text.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\obj\Debug\Cotizador.DAL.csprojResolveAssemblyReference.cache
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\obj\Debug\Cotizador.DAL.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\obj\Debug\Cotizador.DAL.pdb
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DAL.dll.config
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DAL.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DAL.pdb
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Antlr3.Runtime.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DATA.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\MySql.Data.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Common.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.MySql.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Text.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\WebGrease.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DATA.pdb
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Common.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.MySql.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Text.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\obj\Debug\Cotizador.DAL.csprojResolveAssemblyReference.cache
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\obj\Debug\Cotizador.DAL.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\obj\Debug\Cotizador.DAL.pdb
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DAL.dll.config
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DAL.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DAL.pdb
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Antlr3.Runtime.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DATA.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\MySql.Data.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Common.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Interfaces.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.MySql.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Text.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\WebGrease.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Cotizador.DATA.pdb
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Antlr3.Runtime.pdb
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Common.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Interfaces.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.OrmLite.MySql.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\bin\Debug\ServiceStack.Text.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\obj\Debug\Cotizador.DAL.csprojResolveAssemblyReference.cache
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\obj\Debug\Cotizador.DAL.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\Cotizador.DAL\obj\Debug\Cotizador.DAL.pdb

@@ -1,0 +1,519 @@
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\ApplicationInsights.config
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\roslyn\csc.exe
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\roslyn\vbc.exe
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\CotizadorUI.dll.config
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\CotizadorUI.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\CotizadorUI.pdb
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Antlr3.Runtime.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.Web.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Newtonsoft.Json.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\System.Web.Optimization.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\WebGrease.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.Web.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\System.Web.Optimization.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Antlr3.Runtime.pdb
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Newtonsoft.Json.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\obj\Debug\CotizadorUI.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\obj\Debug\CotizadorUI.dll
+C:\Users\Gabriel Murillo\Desktop\Templates Analsis\NuevaInterfazBase\CotizadorUI\obj\Debug\CotizadorUI.pdb
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\ApplicationInsights.config
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\roslyn\csc.exe
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\roslyn\vbc.exe
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\CotizadorUI.dll.config
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\CotizadorUI.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\CotizadorUI.pdb
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Antlr3.Runtime.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.Web.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Newtonsoft.Json.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\System.Web.Optimization.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\WebGrease.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.Web.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\System.Web.Optimization.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Antlr3.Runtime.pdb
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Newtonsoft.Json.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\obj\Debug\CotizadorUI.csprojResolveAssemblyReference.cache
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\obj\Debug\CotizadorUI.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\obj\Debug\CotizadorUI.pdb
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Cotizador.BLL.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Cotizador.DAL.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Cotizador.DATA.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.OrmLite.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.OrmLite.MySql.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Common.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Interfaces.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Text.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\MySql.Data.dll
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Cotizador.BLL.pdb
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Cotizador.DAL.pdb
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\Cotizador.DATA.pdb
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.OrmLite.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.OrmLite.MySql.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Common.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Interfaces.xml
+C:\Users\joxx2\Desktop\version 4\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Text.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\ApplicationInsights.config
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\csc.exe
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\vbc.exe
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\CotizadorUI.dll.config
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\CotizadorUI.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\CotizadorUI.pdb
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Antlr3.Runtime.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Cotizador.BLL.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Cotizador.DAL.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Cotizador.DATA.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.Web.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Newtonsoft.Json.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\System.Web.Optimization.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\WebGrease.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.OrmLite.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.OrmLite.MySql.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Common.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Interfaces.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Text.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\MySql.Data.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Cotizador.BLL.pdb
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Cotizador.DAL.pdb
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Cotizador.DATA.pdb
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.Web.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\System.Web.Optimization.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Antlr3.Runtime.pdb
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Newtonsoft.Json.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.OrmLite.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.OrmLite.MySql.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Common.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Interfaces.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Text.xml
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\obj\Debug\CotizadorUI.csprojResolveAssemblyReference.cache
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\obj\Debug\CotizadorUI.dll
+C:\Users\GP277NH\Desktop\NuevaInterfazBase\CotizadorUI\obj\Debug\CotizadorUI.pdb
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\ApplicationInsights.config
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\csc.exe
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\vbc.exe
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\CotizadorUI.dll.config
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\CotizadorUI.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\CotizadorUI.pdb
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Antlr3.Runtime.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Cotizador.BLL.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Cotizador.DAL.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Cotizador.DATA.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.Web.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Newtonsoft.Json.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\System.Web.Optimization.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\WebGrease.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.OrmLite.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.OrmLite.MySql.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Common.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Interfaces.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Text.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\MySql.Data.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Cotizador.BLL.pdb
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Cotizador.DAL.pdb
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Cotizador.DATA.pdb
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.Web.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\System.Web.Optimization.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Antlr3.Runtime.pdb
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Newtonsoft.Json.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.OrmLite.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.OrmLite.MySql.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Common.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Interfaces.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\ServiceStack.Text.xml
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\obj\Debug\CotizadorUI.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\obj\Debug\CotizadorUI.dll
+C:\Users\Gabriel Murillo\Desktop\NuevaInterfazBase\CotizadorUI\obj\Debug\CotizadorUI.pdb
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\obj\Debug\CotizadorUI.csprojResolveAssemblyReference.cache
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ApplicationInsights.config
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\csc.exe
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\System.Collections.Immutable.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\vbc.exe
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\VBCSCompiler.exe
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\VBCSCompiler.exe.config
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\CotizadorUI.dll.config
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\CotizadorUI.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\CotizadorUI.pdb
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Antlr3.Runtime.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\AspNet.ScriptManager.bootstrap.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\AspNet.ScriptManager.jQuery.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.BLL.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DAL.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DATA.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.Web.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.WindowsServer.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ApplicationInsights.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ScriptManager.WebForms.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.Web.Infrastructure.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Newtonsoft.Json.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\System.Web.Optimization.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\WebGrease.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.MySql.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Common.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Interfaces.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Text.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\MySql.Data.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.BLL.pdb
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DAL.pdb
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DATA.pdb
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.Web.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.WindowsServer.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ApplicationInsights.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\System.Web.Optimization.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Antlr3.Runtime.pdb
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Newtonsoft.Json.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.MySql.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Common.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Interfaces.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Text.xml
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\es\System.Web.Optimization.resources.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\obj\Debug\CotizadorUI.dll
+D:\zuñiga&rodriguez\ZunigaProyecto\ZunigaProyecto\CotizadorUI\obj\Debug\CotizadorUI.pdb
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ApplicationInsights.config
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\csc.exe
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\vbc.exe
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\CotizadorUI.dll.config
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\CotizadorUI.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\CotizadorUI.pdb
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Antlr3.Runtime.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.BLL.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DAL.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DATA.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.Web.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Newtonsoft.Json.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\System.Web.Optimization.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\WebGrease.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.MySql.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Common.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Interfaces.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Text.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\MySql.Data.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.BLL.pdb
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DAL.pdb
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DATA.pdb
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.Web.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\System.Web.Optimization.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Antlr3.Runtime.pdb
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Newtonsoft.Json.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.MySql.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Common.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Interfaces.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Text.xml
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\obj\Debug\CotizadorUI.csprojResolveAssemblyReference.cache
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\obj\Debug\CotizadorUI.dll
+C:\Users\GP277NH\Desktop\ya cachete\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\obj\Debug\CotizadorUI.pdb
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ApplicationInsights.config
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\csc.exe
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\System.Collections.Immutable.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\vbc.exe
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\VBCSCompiler.exe
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\VBCSCompiler.exe.config
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\CotizadorUI.dll.config
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\CotizadorUI.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\CotizadorUI.pdb
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Antlr3.Runtime.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\AspNet.ScriptManager.bootstrap.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\AspNet.ScriptManager.jQuery.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.BLL.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DAL.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DATA.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.Web.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.WindowsServer.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ApplicationInsights.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ScriptManager.WebForms.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.Web.Infrastructure.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Newtonsoft.Json.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\System.Web.Optimization.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\WebGrease.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.MySql.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Common.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Interfaces.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Text.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\MySql.Data.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.BLL.pdb
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DAL.pdb
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DATA.pdb
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.Web.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.WindowsServer.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ApplicationInsights.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\System.Web.Optimization.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Antlr3.Runtime.pdb
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Newtonsoft.Json.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.MySql.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Common.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Interfaces.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Text.xml
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\es\System.Web.Optimization.resources.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\obj\Debug\CotizadorUI.csprojResolveAssemblyReference.cache
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\obj\Debug\CotizadorUI.dll
+D:\zuñiga&rodriguez\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\obj\Debug\CotizadorUI.pdb
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ApplicationInsights.config
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\csc.exe
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\vbc.exe
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\CotizadorUI.dll.config
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\CotizadorUI.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\CotizadorUI.pdb
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Antlr3.Runtime.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.BLL.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DAL.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DATA.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.Web.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Newtonsoft.Json.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\System.Web.Optimization.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\WebGrease.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.MySql.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Common.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Interfaces.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Text.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\MySql.Data.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.BLL.pdb
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DAL.pdb
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Cotizador.DATA.pdb
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.Web.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\System.Web.Optimization.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Antlr3.Runtime.pdb
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Newtonsoft.Json.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.OrmLite.MySql.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Common.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Interfaces.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\ServiceStack.Text.xml
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\obj\Debug\CotizadorUI.csprojResolveAssemblyReference.cache
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\obj\Debug\CotizadorUI.dll
+C:\Users\joxx2\Source\Repos\Proyecto-Programaci-n-5-\ProyectoCasiCasi\ZunigaProyecto\ZunigaProyecto\ZunigaProyecto\CotizadorUI\obj\Debug\CotizadorUI.pdb

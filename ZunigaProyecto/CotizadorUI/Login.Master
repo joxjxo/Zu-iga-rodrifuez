@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Login.master.cs" Inherits="CotizadorUI.Login" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Zúñiga &a Rodriguez Studio S.A</title>
+
+    <!-- Bootstrap -->
+    <link href="Dashboard/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- Font Awesome -->
+    <link href="Dashboard/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+    <!-- NProgress -->
+    <link href="Dashboard/vendors/nprogress/nprogress.css" rel="stylesheet"/>
+    <!-- iCheck -->
+    <link href="Dashboard/vendors/iCheck/skins/flat/green.css" rel="stylesheet"/>
+
+    <!-- bootstrap-progressbar -->
+    <link href="Dashboard/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet"/>
+    <!-- JQVMap -->
+    <link href="Dashboard/vendors/jqvmap/dist/jqvmap.min.css" rel="stylesheet" />
+    <!-- bootstrap-daterangepicker -->
+    <link href="Dashboard/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet"/>
+
+    <!-- Custom Theme Style -->
+    <link href="Dashboard/build/css/custom.min.css" rel="stylesheet"/>
+</head>
+<body>
+   <div id="wrapper">
+
+   </div>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,4 @@
+ Tipos de infraestructura cloud  
+
+ Amenaza interna  
+ Secuestro de sesión o servicio                        
